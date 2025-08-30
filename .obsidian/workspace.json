@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b696b53bcc02270",
+        "id": "20b24aa61fb52597",
         "type": "tabs",
         "children": [
           {
-            "id": "1f4c96c61488f62f",
+            "id": "8127e1f6243aeaf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,20 +169,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "5236740bb285bbe0",
+  "active": "8127e1f6243aeaf0",
   "lastOpenFiles": [
-    "cad/component_holder_offset.md",
+    "images/Pasted image 20250830153018.png",
+    "images/Pasted image 20250830154749.png",
     "README.md",
-    "cad/GBM TM2600/GBM TM2600.stl",
-    "cad/final tail triangle/final tail triangle.f3d",
-    "cad/final tail triangle/final tail triangle.stl",
-    "cad/final wing/final wing.f3d",
-    "cad/final tail holder/final tail holder.stl",
-    "cad/final tail holder/final tail holder.f3d",
-    "cad/final T1/final T1.stl",
-    "cad/final T2/final T2.stl",
-    "cad/final motor guard/final motor guard.stl",
-    "cad/final motor guard/final motor guard.f3d",
+    "images/Pasted image 20250830154633.png",
+    "images/Pasted image 20250830154538.png",
+    "images/Pasted image 20250830154444.png",
+    "images/Pasted image 20250830154334.png",
+    "images/Pasted image 20250830154109.png",
+    "images/Pasted image 20250830154016.png",
+    "images/Pasted image 20250830153929.png",
+    "images/Pasted image 20250830153819.png",
+    "images/Pasted image 20250830153712.png",
+    "cad/component_holder_offset.md",
+    "cad/GBM_TM2600/GBM TM2600.stl",
+    "cad/final_tail_triangle/final tail triangle.f3d",
+    "cad/final_tail_triangle/final tail triangle.stl",
+    "cad/final_wing/final wing.f3d",
+    "cad/final_tail_holder/final tail holder.stl",
+    "cad/final_tail_holder/final tail holder.f3d",
+    "cad/final_T1/final T1.stl",
+    "cad/final_T2/final T2.stl",
+    "cad/final_motor_guard/final motor guard.stl",
+    "cad/final_motor_guard/final motor guard.f3d",
     "CAD.md"
   ]
 }
