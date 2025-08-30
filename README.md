@@ -1,4 +1,5 @@
 # Flapping Wing Robot (FWR) Prototype CAD Files
+This repository contains the cad files for the flapping wing robot from IIIT Hyderabad.
 
 ### Below are the CAD files
 
