@@ -2,6 +2,8 @@
 
 ### Below are the cad files
 
-- **Component holder Offset** : [Link](CAD files/Component holder Offset)
+- **Component holder Offset** : [Link](cad/component_holder_offset/)
 ![alt text](images/image.png)
+
+
 

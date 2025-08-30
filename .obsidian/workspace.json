@@ -169,6 +169,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f4c96c61488f62f",
-  "lastOpenFiles": []
+  "active": "5236740bb285bbe0",
+  "lastOpenFiles": [
+    "cad/component_holder_offset.md",
+    "README.md",
+    "cad/GBM TM2600/GBM TM2600.stl",
+    "cad/final tail triangle/final tail triangle.f3d",
+    "cad/final tail triangle/final tail triangle.stl",
+    "cad/final wing/final wing.f3d",
+    "cad/final tail holder/final tail holder.stl",
+    "cad/final tail holder/final tail holder.f3d",
+    "cad/final T1/final T1.stl",
+    "cad/final T2/final T2.stl",
+    "cad/final motor guard/final motor guard.stl",
+    "cad/final motor guard/final motor guard.f3d",
+    "CAD.md"
+  ]
 }
